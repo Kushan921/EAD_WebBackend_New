@@ -1,0 +1,30 @@
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Pkkg\source\repos\TavelAgency\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Application\obj\Debug\net6.0\ref\Application.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\bin\Debug\net6.0\Application.deps.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\bin\Debug\net6.0\Application.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\bin\Debug\net6.0\Application.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\bin\Debug\net6.0\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\bin\Debug\net6.0\Domain.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\refint\Application.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\Application.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Application\obj\Debug\net6.0\ref\Application.dll

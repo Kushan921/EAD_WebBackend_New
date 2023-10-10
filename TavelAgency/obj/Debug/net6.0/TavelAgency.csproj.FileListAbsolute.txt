@@ -1,0 +1,104 @@
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\appsettings.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\TavelAgency.exe
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\TavelAgency.deps.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\TavelAgency.runtimeconfig.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\TavelAgency.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\TavelAgency.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.AssemblyReference.cache
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.AssemblyInfoInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.AssemblyInfo.cs
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.TavelAgency.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.build.TavelAgency.props
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TavelAgency.props
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TavelAgency.props
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\scopedcss\bundle\TavelAgency.styles.css
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.CopyComplete
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\refint\TavelAgency.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.genruntimeconfig.cache
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\ref\TavelAgency.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Application.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Application.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\obj\Debug\net6.0\TavelAgency.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Pkkg\source\repos\TavelAgency\TavelAgency\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\appsettings.Development.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\appsettings.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\TavelAgency.exe
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\TavelAgency.deps.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\TavelAgency.runtimeconfig.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\TavelAgency.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\TavelAgency.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\DnsClient.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\SharpCompress.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Application.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Infrastructure.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Application.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Domain.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\bin\Debug\net6.0\Infrastructure.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.AssemblyReference.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.AssemblyInfoInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.AssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.CoreCompileInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.MvcApplicationPartsAssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.MvcApplicationPartsAssemblyInfo.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.TavelAgency.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.build.TavelAgency.props
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TavelAgency.props
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TavelAgency.props
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets.build.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\staticwebassets.development.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\scopedcss\bundle\TavelAgency.styles.css
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.csproj.CopyComplete
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\refint\TavelAgency.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\TavelAgency.genruntimeconfig.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\TavelAgency\obj\Debug\net6.0\ref\TavelAgency.dll

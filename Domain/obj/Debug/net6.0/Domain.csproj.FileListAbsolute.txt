@@ -1,0 +1,24 @@
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\bin\Debug\net6.0\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\bin\Debug\net6.0\Domain.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\Domain.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Domain\obj\Debug\net6.0\ref\Domain.dll

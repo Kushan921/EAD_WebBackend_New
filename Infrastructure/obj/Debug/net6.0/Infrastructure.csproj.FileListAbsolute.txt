@@ -1,0 +1,30 @@
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pkkg\source\repos\TavelAgency\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\SLIIT\4th Year\EAD\New_EAD\web_backend\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
